@@ -1,0 +1,11 @@
+This is sample code to support Qxf2 Service's tutorial on Page Object Model with Selenium and Python.
+URL: http://qxf2.com/blog/page-object-model-selenium-python/
+
+
+-----------------
+1. REQUIREMENTS:
+-----------------
+a. Python 2.x
+b. Selenium webdriver with Python binding
+c. Python modules: selenium, python-dotenv, logging 
+
